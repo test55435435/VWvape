@@ -1,5 +1,5 @@
 if shared.RiseMode then
-    return loadstring(game:HttpGet('https://raw.githubusercontent.com/VapeVoidware/VWRise/main/NewMainScript.lua'))()
+    return loadstring(game:HttpGet('https://raw.githubusercontent.com/test55435435/VWvape/refs/heads/main/NewMainScript.lua'))()
 end
 local isfile = isfile or function(file)
 	local suc, res = pcall(function()
