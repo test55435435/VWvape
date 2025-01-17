@@ -1,1 +1,2 @@
-# VWvape
+Pro script
+discord.gg/voidware
